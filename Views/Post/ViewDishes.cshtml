@@ -1,0 +1,21 @@
+@model List<Dish>
+@{
+    ViewData["Title"] = "All Dishes";
+}
+
+@foreach (Dish d in Model)
+{
+    <div>
+        <div class="mb-3 col-6">
+            <a asp-route-DishId="@d.DishId" asp-action="OneDish">@d.Name</a>
+        </div>
+        <div class="mb-3 col-6">
+            <p>@d.Name by @d.Chef</p>
+        </div>
+        <div class="mb-3 col-6">
+            <h5>@d.Description</h5>
+            <h5>Calories: @d.Calories</h5>
+            <h5>Tastiness: @d.Tastiness</h5>
+        </div>
+    </div>
+}

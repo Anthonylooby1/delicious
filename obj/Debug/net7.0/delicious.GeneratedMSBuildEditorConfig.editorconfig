@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = delicious
+build_property.RootNamespace = delicious
+build_property.ProjectDir = C:\Users\Anthony\Desktop\coding dojo files\Class\C#\CRUD\delicious\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Anthony\Desktop\coding dojo files\Class\C#\CRUD\delicious
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Post/EditDish.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0RGlzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Post/NewDish.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxOZXdEaXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Post/OneDish.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxPbmVEaXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Post/ViewDishes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxWaWV3RGlzaGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Anthony/Desktop/coding dojo files/Class/C\#/CRUD/delicious/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1v3p5jtr88

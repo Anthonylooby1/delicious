@@ -1,0 +1,39 @@
+@model Dish
+@{
+    ViewData["Title"] = "Edit Dish";
+}
+
+<form asp-action="UpdateDish" asp-controller="Post" asp-route-DishId="@Model.DishId" method="POST">
+    <div class="mb-3">
+        <label asp-for="Name">Name of Dish</label>
+        <input asp-for="Name" type="text">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Chef">Chef Name</label>
+        <input asp-for="Chef" type="text">
+        <span class="text-danger" asp-validation-for="Chef"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Tastiness">Tastiness</label>
+        <select asp-for="Tastiness">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+        </select>
+        <span class="text-danger" asp-validation-for="Tastiness"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Calories">Calories</label>
+        <input asp-for="Calories" type="number">
+        <span class="text-danger" asp-validation-for="Calories"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description">Description</label>
+        <textarea asp-for="Description" id="Description" cols="30" rows="10"></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Update Dish</button>
+</form>
